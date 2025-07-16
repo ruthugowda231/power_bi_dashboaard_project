@@ -1,2 +1,2 @@
-# power_bi_dashboaard_project
+# projects
 this is a power bi project 
